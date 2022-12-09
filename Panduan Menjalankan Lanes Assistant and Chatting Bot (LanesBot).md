@@ -38,9 +38,9 @@
 
 
 ### **Berikut cara mendeploy aplikasi:**
-Simak Video Berikut ini:
+Simak video berikut ini:
 [Tutorial deployment menggunakan github dengan railway](https://youtu.be/JQIKobOcQ9k)
 
 Setelah proses deployment selesai, aplikasi dapat diakses secara luas melalui link berikut: [Lanesbot](https://web-production-a26a.up.railway.app/)
 
-![Gambar]((railway.JPG)
+![Gambar](railway.JPG)
