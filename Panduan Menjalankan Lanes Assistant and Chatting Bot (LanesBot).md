@@ -31,16 +31,16 @@
     ```
 7. Tunggu hingga muncul tampilan seperti gambar di bawah ini. Selanjutnya tahan tombol Ctrl lalu klik kiri pada link yang muncul di terminal.
 
-    ![Gambar](fghjkaoa,.JPG)
+    ![Gambar](apppy.JPG)
 8. Kemudian  browser default akan menampilkan Aplikasi Lanes Assistant & Chatting Bot (LanesBot) secara otomatis.
 
-    ![Gambar](fgahjma,abnjam.JPG)
+    ![Gambar](localhost.JPG)
 
 
 ### **Berikut cara mendeploy aplikasi:**
 Simak Video Berikut ini:
-[Tutorial deployment menggunakan github dengan railway](https://youtu.be/JQIKobOcQ9)
+[Tutorial deployment menggunakan github dengan railway](https://youtu.be/JQIKobOcQ9k)
 
 Setelah proses deployment selesai, aplikasi dapat diakses secara luas melalui link berikut: [Lanesbot](https://web-production-a26a.up.railway.app/)
 
-![Gambar](iajkla.JPG)
+![Gambar]((railway.JPG)
