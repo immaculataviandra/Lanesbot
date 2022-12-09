@@ -4,7 +4,7 @@
 | Nama  | NPM | Universitas   |
 | ----- | --- | ------------  |
 | Nilam Kumallah Anggreani   | 20082010069  | UPN 'Veteran' Jawa Timur   |
-| I. Viandra Arie Pramata | 5190411119  | Universitas Teknologi Yogyakarta   |
+| Immaculata Viandra Arie Pramata | 5190411119  | Universitas Teknologi Yogyakarta   |
 | Widya Sekar Arum | 194308038  | Politeknik Negeri Madiun   |
 | Binti Fitriani | 200810101058  | Universitas Jember   |
 | Atrides Rahmat Suhada | 1511420118  | Universitas Negeri Semarang   |
