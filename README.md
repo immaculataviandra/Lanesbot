@@ -4,7 +4,7 @@
 | Nama  | NPM | Universitas   |
 | ----- | --- | ------------  |
 | Nilam Kumallah Anggreani   | 20082010069  | UPN 'Veteran' Jawa Timur   |
-| I. Viandra Arie Pramata | 5190411119  | Universitas Teknologi Yogyakarta   |
+| Immaculata Viandra Arie Pramata | 5190411119  | Universitas Teknologi Yogyakarta   |
 | Widya Sekar Arum | 194308038  | Politeknik Negeri Madiun   |
 | Binti Fitriani | 200810101058  | Universitas Jember   |
 | Atrides Rahmat Suhada | 1511420118  | Universitas Negeri Semarang   |
@@ -31,10 +31,10 @@
     ```
 7. Tunggu hingga muncul tampilan seperti gambar di bawah ini. Selanjutnya tahan tombol Ctrl lalu klik kiri pada link yang muncul di terminal.
 
-    ![Gambar](fghjkaoa,.JPG)
+    ![Gambar](static/images/App.py.JPG)
 8. Kemudian  browser default akan menampilkan Aplikasi Lanes Assistant & Chatting Bot (LanesBot) secara otomatis.
 
-    ![Gambar](fgahjma,abnjam.JPG)
+    ![Gambar](static/images/Localhost.JPG)
 
 
 ### **Berikut cara mendeploy aplikasi:**
@@ -43,4 +43,4 @@ Simak Video Berikut ini:
 
 Setelah proses deployment selesai, aplikasi dapat diakses secara luas melalui link berikut: [Lanesbot](https://web-production-a26a.up.railway.app/)
 
-![Gambar](iajkla.JPG)
+![Gambar](static/images/Railway.JPG)
